@@ -9,13 +9,13 @@ A Python script to convert temperatures between Celsius and Fahrenheit. Perfect 
 ✅ Handles invalid input gracefully.  
 
 ## Table of Contents
-Installation  
-Usage  
-Key Functions  
-Example  
-Project Structure  
-Contributing  
-Contact  
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 
 ## Installation 🛠️
 Clone this repository:
